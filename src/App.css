@@ -1,0 +1,114 @@
+.fire{
+  padding-top: 5px;
+  height: auto;
+  width: 250px;
+  font-size: large;height: auto;
+  width: 250px;
+}
+#buttons{
+  flex-direction: row;
+  padding-right: 200px;
+  margin-left: 400px;
+ margin-bottom: 300px;
+  height: 200px;
+  margin-top: 40px;   
+   width: 65%;
+  margin-left: 30px;
+  height: fit-content;
+  margin-right: 500px;
+}
+#second{
+  height: 165px;
+  display: flex;
+  justify-content: space-between;
+}
+#div{
+  display: flex;
+  width: 200px;  
+  height: 40px;
+  text-align: center;
+}
+#skills{
+  background-color: rgb(43, 42, 42);
+  color:white;
+  height: auto;
+  width: 200px;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+#work{
+  height: auto;
+  /* padding-left: 30px; */
+  width: 900px;
+  margin-top: 50px;
+  justify-content: space-between;
+  margin-left: -600px;
+}
+
+#image{
+  display: flex;
+  width: fit-content;
+}
+#imagelink{
+  height: 170px;
+  width: 250px;
+  border: 1px solid;
+  border-radius: 50%;
+}
+#progress {
+  border-radius: 20px;
+  width: 100%;
+  background-color: #140e0e;
+}
+#skillsbar{
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #d4d6d5;
+}
+#Languagename1{
+  display: flex;
+  justify-content: space-between;
+}
+#languagespan{
+display: flex;
+justify-content: space-between;
+}
+#frameset{
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+.wide{
+  display: inline-grid;
+  margin-left: 20px;
+}
+#phone{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;  
+  margin-left: 5px; 
+}
+#emailid{
+  margin-top: 1.6px;
+  margin-left: 15px;  
+}
+#address{
+  display: flex;
+  margin-top: -.2px;
+  /* background-color: aqua; */
+  margin-left: 12px;
+}
+#ul{
+  text-align: center; 
+  padding-bottom:2px;
+}
+#litag1{
+  display: inline;
+}
+#call,#location,#email{
+  text-align:center;
+  background-color: #5e4e4e;
+  color: white;
+}
